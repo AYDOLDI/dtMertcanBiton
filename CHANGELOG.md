@@ -1,5 +1,11 @@
 # Değişiklik günlüğü
 
+## 0.2.2
+
+- Ana sayfa, hizmetler ve blog için sayfaya özgü arama başlıkları ve açıklamalar güncellendi.
+- Mobil menüde Tab sırası, Escape ile kapatma ve bölüm seçildiğinde klavye odağı düzeltildi.
+- Bağlantılara ve düğmelere belirgin klavye odağı eklendi.
+
 ## 0.2.1
 
 - `AGENTS.md` eklendi. Her commit için sürüm numarası ve değişiklik özeti yazma kuralı tanımlandı.

@@ -1,3 +1,5 @@
+a:focus-visible, button:focus-visible { outline: 2px solid #193b38; outline-offset: 3px; box-shadow: 0 0 0 3px #fff; }
+
 .blog-section { background: #f0f4ee; }
 .blog-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch; gap: 20px; text-align: left; }
 .home-blog-scroller { position: relative; }
